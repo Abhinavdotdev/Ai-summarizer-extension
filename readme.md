@@ -16,3 +16,6 @@ A simple Chrome extension that summarizes any highlighted text on a webpage usin
    ```bash
    git clone https://github.com/Abhinavdotdev/Ai-summarizer-extension.git
 
+## 📷 Demo
+
+![Extension Demo](demo.png)
